@@ -1,0 +1,19 @@
+.search_container {
+  display: flex;
+  align-items: center;
+  width: 28%;
+}
+.search_input {
+  padding: 14px 0 14px 16px;
+  border: 1px solid rgba(225, 225, 225, 1);
+  font-size: 14px;
+  width: 100%;
+}
+.search_input ::placeholder {
+  color: rgba(159, 159, 159, 1);
+}
+.search_input:focus {
+  border: 1px solid red;
+  outline: none;
+  border: 1px solid rgba(181, 181, 181, 1);
+}

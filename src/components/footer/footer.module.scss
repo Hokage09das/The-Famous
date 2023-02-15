@@ -1,0 +1,24 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  background-color: rgba(239, 238, 237, 1);
+  width: 100%;
+  padding: 24px 0;
+  .footer_container {
+    display: flex;
+    justify-content: space-between;
+    .callback {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 48px;
+      color: rgba(85, 85, 85, 1);
+      font-size: 14px;
+      p {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+    }
+  }
+}

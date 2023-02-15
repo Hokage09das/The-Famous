@@ -1,0 +1,24 @@
+.button {
+  font-size: 14px;
+  font-weight: bold;
+  padding: 14px 36px;
+  color: rgba(244, 246, 249, 1);
+  background-color: #403432;
+  outline: none;
+  cursor: pointer;
+  border: none;
+}
+.button:disabled {
+  background-color: rgba(193, 180, 177, 1);
+}
+
+.button:hover {
+  background-color: #776763;
+}
+
+.button.success {
+  background-color: #5b3a32;
+  padding: 14px 15px;
+  display: flex;
+  gap: 5px;
+}

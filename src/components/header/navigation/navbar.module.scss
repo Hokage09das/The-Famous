@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  gap: 48px;
+  align-items: center;
+  li {
+    list-style: none;
+    cursor: pointer;
+  }
+}
