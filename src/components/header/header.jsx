@@ -1,5 +1,5 @@
 import React from "react";
-import { Navbar } from "./navigation/navbar";
+import { Navbar } from "./navigation/Navbar";
 import { Search } from "./search";
 
 import styles from "./header.module.scss";

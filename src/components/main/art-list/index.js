@@ -1,1 +1,1 @@
-export * from "./art-list.main";
+export * from "./ArtList";

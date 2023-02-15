@@ -1,6 +1,6 @@
 import React from "react";
 import { AdressIcon, PhoneIcon } from "../../assets/icons";
-import { Navbar } from "../header/navigation/navbar";
+import { Navbar } from "../header/navigation/Navbar";
 import { Layout } from "../layout";
 
 import styles from "./footer.module.scss";

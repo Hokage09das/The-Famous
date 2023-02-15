@@ -10,26 +10,26 @@ import { Button } from "../../UI/button";
 import styles from "./art-item.module.scss";
 
 export const ArtItem = ({
+  id,
   sold,
   image,
   title,
   booked,
   oldPrice,
   description,
+  bookArt,
   currentPrice,
 }) => {
   const [loading, setLoading] = useState(false);
-  const [armored, setArmored] = useState(booked);
 
   async function fetchData() {
     setLoading(true);
-    setArmored(false);
     try {
       const response = await fetch(
         "https://jsonplaceholder.typicode.com/posts/1",
       );
       const json = await response.json();
-      setArmored(json);
+      bookArt(id);
     } catch (error) {
     } finally {
       setLoading(false);
@@ -62,10 +62,11 @@ export const ArtItem = ({
             </div>
             <Button
               onClick={fetchData}
-              className={armored ? "success" : null}
+              className={booked ? "success" : null}
             >
-              {loading && "Loading..."}
-              {armored ? (
+              {loading ? (
+                "Loading..."
+              ) : booked ? (
                 <>
                   <CheckedIcon />В корзине
                 </>

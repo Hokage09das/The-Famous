@@ -1,4 +1,5 @@
 import React from "react";
+
 import { MuseumIcon } from "../../../assets/icons";
 
 import styles from "./navbar.module.scss";
