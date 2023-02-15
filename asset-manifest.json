@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/The-Famous/static/css/main.e38fdebd.css",
-    "main.js": "/The-Famous/static/js/main.56ac0bba.js",
+    "main.js": "/The-Famous/static/js/main.176ced26.js",
     "static/media/png1.png": "/The-Famous/static/media/png1.603757957ce13b7039b1.png",
     "static/media/png2.png": "/The-Famous/static/media/png2.72abfa34f780e7684d47.png",
     "static/media/png3.png": "/The-Famous/static/media/png3.64cf1c761a745d1b367b.png",
@@ -14,10 +14,10 @@
     "static/media/adress.svg": "/The-Famous/static/media/adress.bf38d1b4341a2aa87d3a9022b78f6bea.svg",
     "static/media/checked.svg": "/The-Famous/static/media/checked.1c9627751f2b7715d67445cfab8ba1fb.svg",
     "main.e38fdebd.css.map": "/The-Famous/static/css/main.e38fdebd.css.map",
-    "main.56ac0bba.js.map": "/The-Famous/static/js/main.56ac0bba.js.map"
+    "main.176ced26.js.map": "/The-Famous/static/js/main.176ced26.js.map"
   },
   "entrypoints": [
     "static/css/main.e38fdebd.css",
-    "static/js/main.56ac0bba.js"
+    "static/js/main.176ced26.js"
   ]
 }
