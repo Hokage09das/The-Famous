@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/The-Famous/static/css/main.e38fdebd.css",
+    "main.js": "/The-Famous/static/js/main.56ac0bba.js",
+    "static/media/png1.png": "/The-Famous/static/media/png1.603757957ce13b7039b1.png",
+    "static/media/png2.png": "/The-Famous/static/media/png2.72abfa34f780e7684d47.png",
+    "static/media/png3.png": "/The-Famous/static/media/png3.64cf1c761a745d1b367b.png",
+    "static/media/png4.png": "/The-Famous/static/media/png4.c835d7b0ac4ec4bbccae.png",
+    "static/media/logo-museum.svg": "/The-Famous/static/media/logo-museum.f1af263d8d2b9edfc1bd7b99b176f253.svg",
+    "static/media/arrow-left.svg": "/The-Famous/static/media/arrow-left.19e3453c88dc20b56f58b05a2a88fc14.svg",
+    "static/media/arrow-right.svg": "/The-Famous/static/media/arrow-right.0c108b4dee1edf180f76d1b2d55d6f30.svg",
+    "static/media/phone.svg": "/The-Famous/static/media/phone.59a898b62c491f40dd86534e9c27b984.svg",
+    "index.html": "/The-Famous/index.html",
+    "static/media/adress.svg": "/The-Famous/static/media/adress.bf38d1b4341a2aa87d3a9022b78f6bea.svg",
+    "static/media/checked.svg": "/The-Famous/static/media/checked.1c9627751f2b7715d67445cfab8ba1fb.svg",
+    "main.e38fdebd.css.map": "/The-Famous/static/css/main.e38fdebd.css.map",
+    "main.56ac0bba.js.map": "/The-Famous/static/js/main.56ac0bba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e38fdebd.css",
+    "static/js/main.56ac0bba.js"
+  ]
+}
